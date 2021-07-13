@@ -1,3 +1,4 @@
+study kasus penjualan barang
 Membuat table barang
 ![image](https://user-images.githubusercontent.com/81254764/125392166-dc60d100-e3cf-11eb-8e8b-983c14498604.png)
 ![image](https://user-images.githubusercontent.com/81254764/125392935-3b731580-e3d1-11eb-8cca-52f5b314d833.png)
